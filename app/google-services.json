@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "471622467085",
+    "firebase_url": "https://fir-water-chile.firebaseio.com",
+    "project_id": "fir-water-chile",
+    "storage_bucket": "fir-water-chile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471622467085:android:0332639fde9699eacedf44",
+        "android_client_info": {
+          "package_name": "memoria.s_waterchile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "471622467085-vv5hgb55nrvemc8lj12ursjsg3t85dj1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDl1N7sF-JDQ3ImaiSQcbEQ5Bz_Wq-1ggk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "471622467085-vv5hgb55nrvemc8lj12ursjsg3t85dj1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
